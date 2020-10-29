@@ -1,0 +1,43 @@
+
+
+H1{color: 34E88E;
+font-size:40pt;
+text-shadow: 2px 4px 2px blue; 
+line-height: 4px;
+}
+
+H2 {color: 75C3EB;}
+font-size:18pt;
+text-shadow: 2px 2px 2px green; 
+line-height: 4px;
+}
+
+p.{ 
+	color: pink;
+	letter-spacing: 4px;
+	font-size:small;
+	font-style: italic;
+	font-weight: lighter;
+	font-variant: normal;
+	color: green;
+	text-align: right;
+	text-indent: 60px;
+}
+	p1 {
+color:01010F;
+background-color: A7CD05;
+}
+
+p2 {
+color:black;
+background-color: yellow;
+}
+
+
+p1.espaciado{letter-spacing: 2px;}
+p. {line-height:4px;}
+p1. {line-height:4px;}
+p2. {line-height:4px;}
+p1.color {background-color: blue}
+
+p3 {text-orientation: rigth}
